@@ -32,13 +32,14 @@
     {{ content }}
   </div>
   <div class="col-md-3">
-    {{page.test }}
+    {% if page.category== "Getting Started %"}
     <ul class="list-unstyled">
       <li>Download</li>
       <li>What's Included</li>
       <li>Compliling CSS and Javascript</li>
       <li>Basic Template</li>
     </ul>
+    {% endif %}
   </div>
 </div>
 <div>

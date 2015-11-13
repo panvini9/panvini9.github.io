@@ -5,7 +5,7 @@ description: Global CSS settings, fundamental HTML elements styled and enhanced 
 category: CSS
 ---
 
-##overview
+##Overview
 
 Get the lowdown on the key pieces of Bootstrap's infrastructure, including our approach to better, faster, stronger web development.
 
