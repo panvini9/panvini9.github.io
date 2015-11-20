@@ -10,19 +10,20 @@
 <body>
 <div class="container">
   <h1>{{ page.title }}</h1>
-  {{ content }}
-</div>
+
+
 
 <div class ="row">
-  <div class="col-md-4">
+  <div class="col-md-12">
     <nav>
-    <ul class="list-inline">
+    <ul class="list-inline nav_bar" >
     <li><a href="index.html">Home</li>
     <li><a href="my_page.html">News/Reviews</li>
     <li><a href="games.html">Games</li>
     <li><a href="about.html">About</li>
     </ul>
     </nav>
-
+    {{ content }}
+</div>
 </body>
 </html>
