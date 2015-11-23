@@ -3,3 +3,12 @@
   border-right: 1px solid black;
   height: 1080px;
 }
+
+
+nav {
+	width: 10%;
+	padding: 0.25em;
+	background-color: black;
+	clear: both;
+	margin-left: 30px;
+}
