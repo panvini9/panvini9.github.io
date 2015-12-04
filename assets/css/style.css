@@ -13,3 +13,7 @@ nav {
 h2 {
 text-align: center;
 }
+
+body {
+  background-image: image("Images/marble.jpg");
+}
