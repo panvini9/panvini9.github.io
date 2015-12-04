@@ -15,5 +15,5 @@ text-align: center;
 }
 
 body {
-  background-image: image("marble.jpg");
+  background-image: url("marble.jpg");
 }
