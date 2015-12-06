@@ -17,3 +17,7 @@ text-align: center;
 body {
   background-image: url("../../Images/marble.jpg");
 }
+
+img .reviewTwo {
+margin-left: 300px; 
+}
