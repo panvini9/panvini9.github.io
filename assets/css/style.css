@@ -17,3 +17,8 @@ text-align: center;
 body {
   background-image: url("../../Images/marble.jpg");
 }
+
+.col-md-4 img {
+align: center;
+margin-top: 900px;
+}
