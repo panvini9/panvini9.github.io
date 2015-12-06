@@ -18,6 +18,6 @@ body {
   background-image: url("../../Images/marble.jpg");
 }
 
-.insta img {
-float: right;
+img {
+align: center;
 }
