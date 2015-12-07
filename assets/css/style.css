@@ -24,6 +24,9 @@ body {
 }
 
 #reviewTwo{
+  margin-left: 80px;
+}
 
-  margin-left: 100px; 
+#reviewThree{
+  margin-left: 200px; 
 }
