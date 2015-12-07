@@ -31,10 +31,23 @@ body {
   margin-left: 50px;
 }
 
+#gamesOne{
+  margin-left: 50px;
+
+}
+
+#gamesTwo{
+  margin-left: 50px;
+}
+
+#gamesThree{
+  margin-left: 50px;
+}
+
 #imgOne{
 
   float: right;
 }
 #buttonOne{
-  float: right; 
+  float: right;
 }
