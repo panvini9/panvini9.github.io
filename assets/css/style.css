@@ -18,7 +18,8 @@ text-align: center;
 body {
   background-image: url("../../Images/marble.jpg");
   font-family: 'Open Sans Condensed', sans-serif;
-  color: black; 
+  color: black;
+  font-weight: bold;
 }
 
 #reviewOne{
