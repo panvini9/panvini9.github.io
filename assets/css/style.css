@@ -8,7 +8,10 @@
 nav {
 	background-color: black;
 	clear: both;
-  margin-left: 50px; 
+}
+
+nav li {
+  margin-left: 40px; 
 }
 
 h2 {
