@@ -11,7 +11,7 @@ nav {
 }
 
 nav li {
-  margin-left: 10px; 
+  margin-left: 10px;
 }
 
 h2 {
@@ -45,4 +45,8 @@ color: black;
 }
 #buttonOne{
   float: right;
+}
+
+h3{
+  font-weight: bolder;
 }
