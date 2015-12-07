@@ -28,5 +28,10 @@ body {
 }
 
 #reviewThree{
-  margin-left: 50px; 
+  margin-left: 50px;
+}
+
+#botOne{
+
+  float: right;
 }
