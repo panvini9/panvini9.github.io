@@ -1,5 +1,4 @@
-@import url(https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300);
-
+@import url(https://fonts.googleapis.com/css?family=Roboto+Slab);
 .col-md-1 {
   border-left: 1px solid black;
   border-right: 1px solid black;
@@ -17,8 +16,8 @@ text-align: center;
 
 body {
   background-image: url("../../Images/marble.jpg");
-  font-family: 'Open Sans Condensed', sans-serif;
-  color: black;
+font-family: 'Roboto Slab', serif;
+color: black;
   font-weight: bold;
 }
 
